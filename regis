@@ -1,0 +1,16 @@
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <title>Register</title>
+</head>
+<body>
+  <h2>Register</h2>
+  <form id="registerForm">
+    <input type="text" id="username" placeholder="Username" required />
+    <input type="password" id="password" placeholder="Password" required />
+    <button type="submit">Daftar</button>
+  </form>
+
+  <script src="js/auth.js"></script>
+</body>
+</html>
